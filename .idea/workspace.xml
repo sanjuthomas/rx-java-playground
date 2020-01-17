@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be23cc75-37ef-49d2-b993-8ae8a7213b58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WVFtHT3oX12uA2ICdmWo43q2Q5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.FlatMapExample">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjuthomas.ConsumerExample" />
+      <module name="rx-java-playground" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanjuthomas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjuthomas.FlatMapExample" />
+      <module name="rx-java-playground" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanjuthomas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlatMapExample" />
+        <item itemvalue="Application.ConsumerExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/investments/sg" value="1447900164000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/open-source/conference/model-serving-tutorial" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be23cc75-37ef-49d2-b993-8ae8a7213b58" name="Default Changelist" comment="" />
+      <created>1579227067873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579227067873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="193" width="1288" height="669" key="#Project_Structure" timestamp="1579227979311">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state x="880" y="193" width="1288" height="669" key="#Project_Structure/0.23.2560.1010@0.23.2560.1010" timestamp="1579227979311" />
+    <state x="1093" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1579232044290">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state x="1093" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1010@0.23.2560.1010" timestamp="1579232044290" />
+    <state width="2518" height="306" key="GridCell.Tab.0.bottom" timestamp="1579232741465">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state width="2518" height="306" key="GridCell.Tab.0.bottom/0.23.2560.1010@0.23.2560.1010" timestamp="1579232741465" />
+    <state width="2518" height="306" key="GridCell.Tab.0.center" timestamp="1579232741464">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state width="2518" height="306" key="GridCell.Tab.0.center/0.23.2560.1010@0.23.2560.1010" timestamp="1579232741464" />
+    <state width="2518" height="306" key="GridCell.Tab.0.left" timestamp="1579232741463">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state width="2518" height="306" key="GridCell.Tab.0.left/0.23.2560.1010@0.23.2560.1010" timestamp="1579232741463" />
+    <state width="2518" height="306" key="GridCell.Tab.0.right" timestamp="1579232741464">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state width="2518" height="306" key="GridCell.Tab.0.right/0.23.2560.1010@0.23.2560.1010" timestamp="1579232741464" />
+    <state x="768" y="109" key="SettingsEditor" timestamp="1579228513301">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state x="768" y="109" key="SettingsEditor/0.23.2560.1010@0.23.2560.1010" timestamp="1579228513301" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579228605737">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.2560.1010@0.23.2560.1010" timestamp="1579228605737" />
+    <state x="945" y="246" key="search.everywhere.popup" timestamp="1579232250464">
+      <screen x="0" y="23" width="2560" height="1010" />
+    </state>
+    <state x="945" y="246" key="search.everywhere.popup/0.23.2560.1010@0.23.2560.1010" timestamp="1579232250464" />
+  </component>
+</project>
