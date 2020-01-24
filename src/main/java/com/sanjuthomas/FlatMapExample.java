@@ -17,7 +17,7 @@ public class FlatMapExample {
     items.add(item);
 
     Observable.range(1, 10000)
-      .flatMap(val -> Observable.just(val).subscribeOn(Schedulers.computation()))
+      .flatMap(val -> Observable.just(val).observeOn(Schedulers.computation()))
       .flatMap(new MyFunction())
       .flatMap(new MyFunction())
       .subscribe(result -> System.out.println(result));
