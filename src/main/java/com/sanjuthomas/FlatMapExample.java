@@ -16,15 +16,11 @@ public class FlatMapExample {
     final Map<String, String> item = new HashMap<>();
     items.add(item);
 
-    Observable.range(1, 10000)
+    Observable.range(1, 10)
       .flatMap(val -> Observable.just(val).observeOn(Schedulers.computation()))
       .flatMap(new MyFunction())
       .flatMap(new MyFunction())
-      .subscribe(result -> System.out.println(result));
-
-      while(true) {
-
-      }
+      .blockingSubscribe(result -> System.out.println(result));
   }
 
 }
